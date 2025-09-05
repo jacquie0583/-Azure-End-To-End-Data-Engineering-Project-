@@ -66,6 +66,11 @@
 				"userProperties": []
 			}
 		],
+		"parameters": {
+			"p_array": {
+				"type": "array"
+			}
+		},
 		"annotations": []
 	}
 }

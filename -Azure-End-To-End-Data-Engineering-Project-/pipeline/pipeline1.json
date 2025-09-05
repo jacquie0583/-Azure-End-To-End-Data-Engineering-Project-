@@ -77,6 +77,10 @@
 										"folder_name": {
 											"value": "@item().folder_name",
 											"type": "Expression"
+										},
+										"file_name": {
+											"value": "@item().file_name",
+											"type": "Expression"
 										}
 									}
 								}

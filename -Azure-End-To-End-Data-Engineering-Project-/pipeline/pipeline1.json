@@ -96,7 +96,7 @@
 				"userProperties": [],
 				"typeProperties": {
 					"dataset": {
-						"referenceName": "jhstorage",
+						"referenceName": "jh_validation",
 						"type": "DatasetReference"
 					},
 					"timeout": "0.12:00:00",
